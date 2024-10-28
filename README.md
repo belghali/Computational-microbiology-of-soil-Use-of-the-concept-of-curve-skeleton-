@@ -11,7 +11,7 @@ Dataset 1 : https://www.kaggle.com/datasets/zakariabelghali/sandy-soil-bd12-for-
 
 Dataset 2 : https://www.kaggle.com/datasets/zakariabelghali/sand-high-porosity
 
-Dataset 3 :
+Dataset 3 : https://www.kaggle.com/datasets/zakariabelghali/sand-low-porosity
 
 Dataset 4 : https://www.kaggle.com/datasets/zakariabelghali/carbonate-rocks
 
