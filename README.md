@@ -9,7 +9,7 @@ The used datasets cannot be uploaded directly to github that why they were uploa
 
 Dataset 1 : https://www.kaggle.com/datasets/zakariabelghali/sandy-soil-bd12-for-mosaic
 
-Dataset 2 :
+Dataset 2 : https://www.kaggle.com/datasets/zakariabelghali/sand-high-porosity
 
 Dataset 3 :
 
